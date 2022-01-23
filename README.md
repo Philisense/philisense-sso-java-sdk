@@ -14,9 +14,13 @@
 </dependency>
 ```
 
-## Jar 手动安装
+## Jar
 
-待补充
+可到 Maven 仓库中下载 Jar 包，例如在 GitHub 制品库中下载：
+
+https://github.com/Philisense/philisense-sso-java-sdk/packages/1211568
+
+选择下载 philisense-sso-java-sdk-1.0.0.jar，将 Jar 包放入自己项目的 lib 库中。
 
 ## Example
 
