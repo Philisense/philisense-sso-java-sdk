@@ -42,3 +42,5 @@ Oauth2UserInfo oauth2UserInfo = singleSignOn.getUserInfo(oauth2Token.getAccess_t
 System.out.println("");
 System.out.println("拿到UserInfo：" + oauth2UserInfo);
 ```
+
+![./doc/image/20220123135335.png](./doc/image/20220123135335.png)
